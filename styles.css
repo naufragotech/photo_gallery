@@ -9,7 +9,7 @@ img {
 }
 
 .gallery {
-    columns: 4 200px;
+    columns: 4 250px;
     column-gap: 1rem;
 }
 
